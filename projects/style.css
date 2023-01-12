@@ -297,6 +297,10 @@ header .navbar ul li a:hover {
   .project .box-container .grid-item .box {
     width: 95% !important;
   }
+  .grid-item {
+  /* border: 2px solid red; */
+  margin-left: 4rem;
+}
 }
 
 /* back to home button */
