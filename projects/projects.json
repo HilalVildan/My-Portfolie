@@ -271,6 +271,17 @@
       "view": "https://design-withrouter.netlify.app/",
       "code": "https://github.com/HilalVildan/Web-Site-with-Router.git"
     }
+  },
+  {
+    "name": "Movie App",
+    "desc": "Responsive Movie App made using React and Tailwind.",
+    "image": "movie app react",
+    "category": "react",
+    "links": {
+      "view": "https://movie-ojtj81w0f-hilalvildan.vercel.app/",
+      "code": "https://github.com/HilalVildan/Movie-App.git"
+    }
   }
+
 ]
  
