@@ -164,6 +164,7 @@ header .navbar ul li a:hover {
   /* background: #010124; */
   background: linear-gradient(to bottom, #010136, #00003a);
   margin-top: 5rem;
+
 }
 .project h2 {
   color: #fff;
@@ -190,6 +191,7 @@ header .navbar ul li a:hover {
   border-radius: 3px;
   cursor: pointer;
   font-weight: 500;
+
 }
 .project .button-group .btn:hover {
   background-color: #fff;
@@ -204,6 +206,9 @@ header .navbar ul li a:hover {
   flex-wrap: wrap;
   gap: 1.5rem;
   margin: 2rem;
+  /* border: 2px solid red; */
+
+
 }
 .project .box-container .box {
   flex: 1 1 30rem;
@@ -214,6 +219,11 @@ header .navbar ul li a:hover {
   height: 30rem;
   background: #fff;
   border: none;
+
+}
+.grid-item {
+  /* border: 2px solid red; */
+  margin-left: 4rem;
 }
 .project .box-container .box img {
   height: 100%;
@@ -274,6 +284,8 @@ header .navbar ul li a:hover {
 .project .desc .btns .btn:hover {
   background: #310ae0f5;
 }
+
+
 
 @media screen and (max-width: 450px) {
   .project .button-group {
