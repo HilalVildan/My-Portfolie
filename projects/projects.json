@@ -19,6 +19,16 @@
       "code": "https://github.com/HilalVildan/Stock-App.git"
     }
   },
+  {
+    "name": "FireContact App",
+    "desc": "A responsive Contact App created by using Firebase Database.",
+    "image": "firecontact",
+    "category": "react",
+    "links": {
+      "view": "https://firecontactapp-proj.netlify.app/",
+      "code": "https://github.com/HilalVildan/firecontact-app.git"
+    }
+  },
 
   {
     "name": "Bootcamp Page",
