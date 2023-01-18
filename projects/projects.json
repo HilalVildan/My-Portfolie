@@ -9,6 +9,16 @@
       "code": "https://github.com/HilalVildan/NETFLIX-SURVEY-FORM.git"
     }
   },
+  {
+    "name": "Stock App",
+    "desc": "A responsively designed React project where brands and models can be filtered and sales and purchase rates are charted.",
+    "image": "stockapp",
+    "category": "react",
+    "links": {
+      "view": "https://stockapp-proj.netlify.app/",
+      "code": "https://github.com/HilalVildan/Stock-App.git"
+    }
+  },
 
   {
     "name": "Bootcamp Page",
