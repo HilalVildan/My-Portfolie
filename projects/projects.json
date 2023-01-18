@@ -29,17 +29,27 @@
       "code": "https://github.com/HilalVildan/firecontact-app.git"
     }
   },
-
   {
-    "name": "Bootcamp Page",
-    "desc": "Created a bootcamp project using HTML and CSS.",
-    "image": "bootcamp",
-    "category": "html_css",
+    "name": "Movie App",
+    "desc": "Responsive Movie App made using React and Tailwind.",
+    "image": "movie app react",
+    "category": "react",
     "links": {
-      "view": "https://bootcamp-site.netlify.app/",
-      "code": "https://github.com/HilalVildan/Clarusway-Bootcamp.git"
+      "view": "https://movie-ojtj81w0f-hilalvildan.vercel.app/",
+      "code": "https://github.com/HilalVildan/Movie-App.git"
     }
   },
+  {
+    "name": "Guess Number",
+    "desc": "Created a simple game 'Guess the number' with JS. The game ends when the player guesses correctly or their turn runs out. When the game is over, the player has the option to start playing again.",
+    "image": "guessnumber js",
+    "category": "javascript",
+    "links": {
+      "view": "https://guess-number-projectt.netlify.app/",
+      "code": "https://github.com/HilalVildan/Guess-Number.git"
+    }
+  },
+
   {
     "name": "IOS Calculator JS",
     "desc": "Created a IOS Calculator using HTML, CSS and JavaScript",
@@ -61,25 +71,16 @@
     }
   },
   {
-    "name": "Voltran",
-    "desc": "Created a simple comic book serial site using HTML and CSS",
-    "image": "voltran",
-    "category": "html_css",
+    "name": "Weather App",
+    "desc": "Created a weather app with JS that displays the current weather based on the entered city name.",
+    "image": "weather app js",
+    "category": "javascript",
     "links": {
-      "view": "https://voltran-project.vercel.app/",
-      "code": "https://github.com/HilalVildan/VOLTRAN.git"
+      "view": "https://weather-app-proje.netlify.app/",
+      "code": "https://github.com/HilalVildan/WEATHER-APP.git"
     }
   },
-  {
-    "name": "Checkout Form",
-    "desc": "Created a checkout form using HTML and CSS",
-    "image": "checkout",
-    "category": "html_css",
-    "links": {
-      "view": "https://checkout-form-projectt.netlify.app/",
-      "code": "https://github.com/HilalVildan/Checkout-form.git"
-    }
-  },
+
   {
     "name": "Credit Tool",
     "desc": "Using Javascript, a credit calculator was created that calculates the total repayment of different credit types with their determined interest rates and the desired maturity.",
@@ -88,6 +89,26 @@
     "links": {
       "view": "https://credit-calculator-tool.netlify.app/",
       "code": "https://github.com/HilalVildan/CreditTool.git"
+    }
+  },
+  {
+    "name": "Stopwatch Project",
+    "desc": "Created a simple Stopwatch using JS.",
+    "image": "stopwatch",
+    "category": "javascript",
+    "links": {
+      "view": "https://stopwatch-proje.netlify.app/",
+      "code": "https://github.com/HilalVildan/Stopwatch.git"
+    }
+  },
+  {
+    "name": "Djital Clock",
+    "desc": "Created a simple digital clock using HTML, CSS and JS.",
+    "image": "djitalclock js",
+    "category": "javascript",
+    "links": {
+      "view": "https://digital-clock-proj.netlify.app/",
+      "code": "https://github.com/HilalVildan/Digital-Clock.git"
     }
   },
   {
@@ -101,17 +122,6 @@
     }
   },
 
-
-  {
-    "name": "Djital Clock",
-    "desc": "Created a simple digital clock using HTML, CSS and JS.",
-    "image": "djitalclock js",
-    "category": "javascript",
-    "links": {
-      "view": "https://digital-clock-proj.netlify.app/",
-      "code": "https://github.com/HilalVildan/Digital-Clock.git"
-    }
-  },
   {
     "name": "Mini Dom Project",
     "desc": "Created a website with using HTML, CSS and JS Dom Manipulation",
@@ -133,6 +143,16 @@
     }
   },
   {
+    "name": "Bootcamp Page",
+    "desc": "Created a bootcamp project using HTML and CSS.",
+    "image": "bootcamp",
+    "category": "html_css",
+    "links": {
+      "view": "https://bootcamp-site.netlify.app/",
+      "code": "https://github.com/HilalVildan/Clarusway-Bootcamp.git"
+    }
+  },
+  {
     "name": "Google Page",
     "desc": "Created a Google Landing Page using HTML and CSS.",
     "image": "google_landing",
@@ -142,16 +162,7 @@
       "code": "https://github.com/HilalVildan/GOOGLE-LANDING-PAGE.git"
     }
   },
-  {
-    "name": "Guess Number",
-    "desc": "Created a simple game 'Guess the number' with JS. The game ends when the player guesses correctly or their turn runs out. When the game is over, the player has the option to start playing again.",
-    "image": "guessnumber js",
-    "category": "javascript",
-    "links": {
-      "view": "https://guess-number-projectt.netlify.app/",
-      "code": "https://github.com/HilalVildan/Guess-Number.git"
-    }
-  },
+
   {
     "name": "Language Card",
     "desc": "Create Language Card using React",
@@ -170,6 +181,16 @@
     "links": {
       "view": "https://team-members-pagee.netlify.app/",
       "code": "https://github.com/HilalVildan/Team-Members-Page.git"
+    }
+  },
+  {
+    "name": "Checkout Form",
+    "desc": "Created a checkout form using HTML and CSS",
+    "image": "checkout",
+    "category": "html_css",
+    "links": {
+      "view": "https://checkout-form-projectt.netlify.app/",
+      "code": "https://github.com/HilalVildan/Checkout-form.git"
     }
   },
   {
@@ -212,16 +233,7 @@
       "code": "https://github.com/HilalVildan/SASS-project.git"
     }
   },
-  {
-    "name": "Stopwatch Project",
-    "desc": "Created a simple Stopwatch using JS.",
-    "image": "stopwatch",
-    "category": "javascript",
-    "links": {
-      "view": "https://stopwatch-proje.netlify.app/",
-      "code": "https://github.com/HilalVildan/Stopwatch.git"
-    }
-  },
+
   {
     "name": "Task Tracker",
     "desc": "Create Task Tracker using React",
@@ -273,15 +285,16 @@
     }
   },
   {
-    "name": "Weather App",
-    "desc": "Created a weather app with JS that displays the current weather based on the entered city name.",
-    "image": "weather app js",
-    "category": "javascript",
+    "name": "Voltran",
+    "desc": "Created a simple comic book serial site using HTML and CSS",
+    "image": "voltran",
+    "category": "html_css",
     "links": {
-      "view": "https://weather-app-proje.netlify.app/",
-      "code": "https://github.com/HilalVildan/WEATHER-APP.git"
+      "view": "https://voltran-project.vercel.app/",
+      "code": "https://github.com/HilalVildan/VOLTRAN.git"
     }
   },
+
   {
     "name": "Router Website",
     "desc": "Responsive web design site made using React",
@@ -291,17 +304,6 @@
       "view": "https://design-withrouter.netlify.app/",
       "code": "https://github.com/HilalVildan/Web-Site-with-Router.git"
     }
-  },
-  {
-    "name": "Movie App",
-    "desc": "Responsive Movie App made using React and Tailwind.",
-    "image": "movie app react",
-    "category": "react",
-    "links": {
-      "view": "https://movie-ojtj81w0f-hilalvildan.vercel.app/",
-      "code": "https://github.com/HilalVildan/Movie-App.git"
-    }
   }
-
 ]
  
