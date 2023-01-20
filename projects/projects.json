@@ -1,12 +1,12 @@
 [
   {
-    "name": "Netflix Survey Form",
-    "desc": "Created a Netflix Survey Form site using HTML and CSS.",
-    "image": "netflix",
-    "category": "html_css",
+    "name": "ToDo App with TypeScript",
+    "desc": "A ToDo App Project created by using TypeScript",
+    "image": "todoapp-typescript",
+    "category": "react",
     "links": {
-      "view": "https://netflix-survey-form-prjct.netlify.app/",
-      "code": "https://github.com/HilalVildan/NETFLIX-SURVEY-FORM.git"
+      "view": "https://todoapp-typscript.vercel.app/",
+      "code": "https://github.com/HilalVildan/todoapp-typscript.git"
     }
   },
   {
@@ -181,6 +181,16 @@
     "links": {
       "view": "https://team-members-pagee.netlify.app/",
       "code": "https://github.com/HilalVildan/Team-Members-Page.git"
+    }
+  },
+  {
+    "name": "Netflix Survey Form",
+    "desc": "Created a Netflix Survey Form site using HTML and CSS.",
+    "image": "netflix",
+    "category": "html_css",
+    "links": {
+      "view": "https://netflix-survey-form-prjct.netlify.app/",
+      "code": "https://github.com/HilalVildan/NETFLIX-SURVEY-FORM.git"
     }
   },
   {
