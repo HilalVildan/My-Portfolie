@@ -671,7 +671,7 @@ header .navbar ul li a:hover {
   flex-wrap: wrap;
   gap: 1.5rem;
   margin: 2rem;
-  border: 2px solid red;
+  /* border: 2px solid red; */
 
 }
 .project .box-container .box {
